@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-metrics-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin-atlas/portfolio-metrics-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamin-atlas/portfolio-metrics-lambda/issues"
+  },
+  "homepage": "https://github.com/benjamin-atlas/portfolio-metrics-lambda#readme",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.121",
+    "@types/node": "^20.6.2",
+    "aws-sdk": "^2.1460.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
